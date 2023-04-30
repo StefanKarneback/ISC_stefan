@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Solar Box Cooker TESTTEST",
+    "Entrepreneur": "Asulma Center Selfhelp Group, Kariobangi, Nairobi, contact information: asulmacentre@yahoo.com, Samuel Odhiambo. Phone: +254 751 530 056",
+    "Price": "4500 KES",
+    "Info": "Can be placed in a sunny spot. Can cook for 4-5 persons, typically one pot. Takes 3 hours on a sunny day.",
+    "ImgSorce": "Prod1"
+  },
+  {
+    "Name": "Haines 1.0",
+    "Entrepreneur": "Asulma Center Selfhelp Group, Kariobangi, Nairobi, contact information: asulmacentre@yahoo.com, Samuel Odhiambo. Phone: +254 751 530 056",
+    "Price": "2000 KES",
+    "Info": "Can be placed in a sunny spot. Can cook for 4-5 persons, typically one pot. Takes 3 hours on a sunny day.",
+    "ImgSorce": "prod2.jpeg"
+  },
+  {
+    "Name": "Conical Cooker medium",
+    "Entrepreneur": "Asulma Center Selfhelp Group, Kariobangi, Nairobi, contact information: asulmacentre@yahoo.com, Samuel Odhiambo. Phone: +254 751 530 056",
+    "Price": "1500-2000 KES",
+    "Info": "Is sold in two different sizes, X and Y cmd diameter. Can be placed in a sunny spot. Can cook for 4-5 persons, typically one pot. Takes 3 hours on a sunny day.",
+    "ImgSorce": "prod3.png"
+  }
+]

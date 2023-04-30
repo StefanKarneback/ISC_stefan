@@ -1,0 +1,24 @@
+.sidebardiv {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+.sidebartitle {
+  font-size: 20px;
+}
+.sidebartitle:hover {
+  text-shadow: 1px 1px 1px #585959;
+}
+
+.subsidebartitle {
+  font-size: 16px;
+  padding-left: 10px !important;
+}
+.subsidebartitle:hover {
+  text-shadow: 1px 1px 1px #585959;
+}
+
+.LogoTitle {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
