@@ -48,7 +48,7 @@ export default function SidebarMenu() {
           {" "}
           Solar Cooker
         </div>
-        {window.location.href.includes("/SolarCooker") == true ? (
+        {window.location.href.includes("/SolarCooker") === true ? (
           <>
             <div
               className="subsidebartitle"
@@ -86,7 +86,7 @@ export default function SidebarMenu() {
           {" "}
           Where to Buy
         </div>{" "}
-        {window.location.href.includes("/Products") == true ? (
+        {window.location.href.includes("/Products") === true ? (
           <>
             <div
               className="subsidebartitle"
